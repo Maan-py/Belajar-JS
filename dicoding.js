@@ -2,7 +2,7 @@ const restaurant = {
 	name : "Bakso Mang Dicoding",
   	city : "Bandungs",
   	"favorite drink" : "Es Teh",
-  	favoriteFood : "Bakso",
+  	favoriteFood : "Bakso ikan",
   	isVegan : false
 }
 
